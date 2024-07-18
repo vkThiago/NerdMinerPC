@@ -1,4 +1,4 @@
-# NerdMinerPC Chance de consegui
+# NerdMinerPC 
 ![NerdMinerPC](https://github.com/vkThiago/NerdMinerPC/blob/main/Pictures/NerdMiner1.gif)
 -----------------------------------------------------------------------------------------------------------------
 Tutorial: Instalação e Uso do Código de Mineração de Bitcoin
