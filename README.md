@@ -1,7 +1,8 @@
 # NerdMinerPC 
 ![NerdMinerPC](https://github.com/vkThiago/NerdMinerPC/blob/main/Pictures/NerdMiner1.gif)
 -----------------------------------------------------------------------------------------------------------------
-Tutorial: Instalação e Uso do Código de Mineração de Bitcoin
+-----------------------------------------------------------------------------------------------------------------
+#Tutorial: Instalação e Uso do Código
 
 Passo 1: Instalação do Python
 Baixe e Instale o Python: Link (https://www.python.org/downloads/)
@@ -47,9 +48,12 @@ Considerações adicionais:
 - Está proibida a venda do codigo
 
 ----------------------------------------------------------------------------------------------------------------
-Projeto basedo nos scriotps: 
-https://github.com/iceland2k14
-https://github.com/Pymmdrza
+
+Projeto basedo nos scripts:
+
+<p> https://github.com/iceland2k14 </p>
+<p>https://github.com/Pymmdrza </p>
+
 
 ----------------------------------------------------------------------------------------------------------------
 
