@@ -1,6 +1,7 @@
 # NerdMinerPC 
 ![NerdMinerPC](https://github.com/vkThiago/NerdMinerPC/blob/main/Pictures/NerdMiner1.gif)
 -----------------------------------------------------------------------------------------------------------------
+A Cada 10 minutos você possui a chance de conseguir 3,125 BTC
 -----------------------------------------------------------------------------------------------------------------
 #Tutorial: Instalação e Uso do Código
 
@@ -47,6 +48,11 @@ Considerações adicionais:
 - O Objetivo desse código é ser simples
 - Está proibida a venda do codigo
 
+----------------------------------------------------------------------------------------------------------------
+Projeto é baseado no aparelho NerdMiner
+
+Caso queira mais informações sobre a mineração, recomendo esse video:
+<p>https://www.youtube.com/watch?v=oNOMaS-Esdo</p>
 ----------------------------------------------------------------------------------------------------------------
 
 Projeto basedo nos scripts:
