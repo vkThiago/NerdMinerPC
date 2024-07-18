@@ -12,7 +12,7 @@ from colorama import init, Fore, Back, Style
 
 
 # Set your Bitcoin address
-address = "121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh"
+address = "121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh" # <----- TROQUE AQUI ANTES DE EXECUTAR O CODIGO
 
 # Initialize current block height
 current_height = 0
