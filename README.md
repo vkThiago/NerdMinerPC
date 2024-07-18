@@ -1,7 +1,8 @@
 # NerdMinerPC 
-![NerdMinerPC](https://github.com/vkThiago/NerdMinerPC/blob/main/Pictures/NerdMiner1.gif)
 -----------------------------------------------------------------------------------------------------------------
 A Cada 10 minutos você possui a chance de conseguir 3,125 BTC
+-----------------------------------------------------------------------------------------------------------------
+![NerdMinerPC](https://github.com/vkThiago/NerdMinerPC/blob/main/Pictures/NerdMiner1.gif)
 -----------------------------------------------------------------------------------------------------------------
 #Tutorial: Instalação e Uso do Código
 
