@@ -52,5 +52,7 @@ https://github.com/iceland2k14
 https://github.com/Pymmdrza
 
 ----------------------------------------------------------------------------------------------------------------
-AJUDAS PARA PAGAR A FACULDADE: 121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh
+
+QUEM QUISER ME AJUDAR PAGAR A FACULDADE: 121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh  =D
+
 ----------------------------------------------------------------------------------------------------------------
