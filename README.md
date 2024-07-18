@@ -8,6 +8,7 @@ A Cada 10 minutos você possui a chance de conseguir 3,125 BTC
 
 Passo 1: Instalação do Python
 Baixe e Instale o Python: Link (https://www.python.org/downloads/)
+Baixe e Instale o Git: Link (https://git-scm.com/download/win)
 
 Passo 2: Instalação das Dependências Python
 Instalação do requests, colorama e binascii:
@@ -23,7 +24,6 @@ No terminal, navegue até a pasta onde deseja clonar o repositório e execute o 
 ````
 git clone https://github.com/vkThiago/NerdMinerPC.git
 ````
-
 
 Passo 4: Execução do Código
 Configuração do Endereço da Carteira Bitcoin:
@@ -64,6 +64,6 @@ Projeto basedo nos scripts:
 
 ----------------------------------------------------------------------------------------------------------------
 
-QUEM QUISER ME AJUDAR PAGAR A FACULDADE: 121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh  =D
+QUEM QUISER ME AJUDAR PAGAR A FACULDADE: 121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh
 
 ----------------------------------------------------------------------------------------------------------------
